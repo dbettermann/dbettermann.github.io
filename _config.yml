@@ -24,8 +24,10 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/dbettermann
+  - title: linkedin
+    url: https://www.linkedin.com/in/dylanbettermann
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/dbettermann
+    url: http://stackoverflow.com/users/2088780/dylan-bettermann
   - title: github
     url: http://github.com/dbettermann
 
